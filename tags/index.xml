@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog Maritna Jandy</title>
-    <link>https://martinjanda.com/tags/</link>
+    <link>https://www.martinjanda.com/tags/</link>
     <description>Blog Maritna Jandy (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cz-cs</language>
     <lastBuildDate>Wed, 22 May 2013 06:05:08 +0000</lastBuildDate>
     
-    <atom:link href="https://martinjanda.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.martinjanda.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poznamky on Blog Maritna Jandy</title>
-    <link>https://martinjanda.com/tags/poznamky/</link>
+    <link>https://www.martinjanda.com/tags/poznamky/</link>
     <description>Blog Maritna Jandy (poznamky)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cz-cs</language>
     <lastBuildDate>Wed, 29 Aug 2012 07:00:54 +0000</lastBuildDate>
     
-    <atom:link href="https://martinjanda.com/tags/poznamky/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.martinjanda.com/tags/poznamky/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evernote - rozšířená paměť pro každého</title>
-      <link>https://martinjanda.com/blog/evernote-rozsirena-pamet-pro-kazdeho/</link>
+      <link>https://www.martinjanda.com/blog/evernote-rozsirena-pamet-pro-kazdeho/</link>
       <pubDate>Wed, 29 Aug 2012 07:00:54 +0000</pubDate>
       
-      <guid>https://martinjanda.com/blog/evernote-rozsirena-pamet-pro-kazdeho/</guid>
+      <guid>https://www.martinjanda.com/blog/evernote-rozsirena-pamet-pro-kazdeho/</guid>
       <description>&lt;p&gt;Žijeme v informačním věku. Množství informací, které se na nás hrne je zdrcující. Ano, dobrých 80% je šum – neužitečné informace u kterých uděláme lépe, pokud se jim nebudeme věnovat. Zbylých 20% je potřeba si nějak uchovat a zroganizovat. Co na to použít? Pokud vás už nebaví další Word na ploše a nepořádek v dokumentech, můžete zkusit program Evernote, který vám dnes chci představit.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://martinjanda.com/evernote-logo.jpg&#34; alt=&#34;Evernote&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.martinjanda.com/evernote-logo.jpg&#34; alt=&#34;Evernote&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.evernote.com/&#34;&gt;Evernote&lt;/a&gt; je online služba &lt;strong&gt;na ukládání a organizaci&lt;/strong&gt; poznámek, souborů, útržků, odkazů… prostě všech forem digitálních informací. K uloženým informacím můžete přistupovat přes kvalitní webové rozhraní. Kromě toho však máte k dispozici komfortní nativní Windows a Mac OS program. Pokud vlastníte smartphone (Android, iOS, BlackBerry, Windows Phone…), i zde najdete propracovanou aplikaci pro přístup i pro vkládání nových informací. To vše se vám synchronizuje přes cloud. V základní verzi zdarma, která mi po 3 letech používání stále stačí!&lt;/p&gt;
 &lt;h3 id=&#34;kčemu-evernote-použít&#34;&gt;K čemu Evernote použít?&lt;/h3&gt;
 &lt;p&gt;Evernote je služba poměrně univerzální, takže příklady použití vás možná i překvapí. Každého napadne to hlavní: nápady a drobné poznámky pro pozdější použití, studijní poznámky a citace. Zajímavější použití jsou například recepty (vč. fotek), cestovní deník, fitness deník, nástroj na uchovávání webových odkazů, uložiště dokumentů pro rychlé prohledávání, zaznamenávání ochutnaných vín, úkolovníček, seznam projektů, plnohodnotný GTD nástroj, jednoduché CRM, záznamy jednání, archív důležitých emailů…&lt;/p&gt;
 &lt;p&gt;V kombinaci s Evernotem v mobilu použití násobně roste. Můžete něco vyfotit nebo nahrát audio poznámku a doslova na jeden klik vše nahrát do Evernotu. Už nikdy nemusíte přijít o užitečné nápady nebo myšlenky, protože si je poznamenáte ve chvíli, kdy vás napadly. K vytvořené poznámce si můžete přidat i GPS souřadnice.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://martinjanda.com/evernote-sync.png&#34; alt=&#34;Evernote synchronizace&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.martinjanda.com/evernote-sync.png&#34; alt=&#34;Evernote synchronizace&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;jak-to-funguje&#34;&gt;Jak to funguje?&lt;/h3&gt;
 &lt;p&gt;Základem je poznámka, která může obsahovat formátovaný text (podobně jako MS Word, jen jednodušší, vlastně jde o HTML + styly), obrázky a soubory. Poznámka má samozřejmě nadpis, datum vytvoření a datum poslední editace. Poznámky můžeme organizovat do notebooků a přidávat k nim x tagů. V tom všem můžete úžasně rychle hledat. Každá poznámka se pak dá sdílet mezi více lidmi.&lt;/p&gt;
 &lt;h3 id=&#34;jak-evernote-používám-já&#34;&gt;Jak Evernote používám já?&lt;/h3&gt;
