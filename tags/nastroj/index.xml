@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nastroj on Blog Maritna Jandy</title>
+    <link>https://martinjanda.com/tags/nastroj/</link>
+    <description>Blog Maritna Jandy (nastroj)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cz-cs</language>
+    <lastBuildDate>Wed, 29 Aug 2012 07:00:54 +0000</lastBuildDate>
+    
+    <atom:link href="https://martinjanda.com/tags/nastroj/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evernote - rozšířená paměť pro každého</title>
+      <link>https://martinjanda.com/blog/evernote-rozsirena-pamet-pro-kazdeho/</link>
+      <pubDate>Wed, 29 Aug 2012 07:00:54 +0000</pubDate>
+      
+      <guid>https://martinjanda.com/blog/evernote-rozsirena-pamet-pro-kazdeho/</guid>
+      <description>&lt;p&gt;Žijeme v informačním věku. Množství informací, které se na nás hrne je zdrcující. Ano, dobrých 80% je šum – neužitečné informace u kterých uděláme lépe, pokud se jim nebudeme věnovat. Zbylých 20% je potřeba si nějak uchovat a zroganizovat. Co na to použít? Pokud vás už nebaví další Word na ploše a nepořádek v dokumentech, můžete zkusit program Evernote, který vám dnes chci představit.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://martinjanda.com/evernote-logo.jpg&#34; alt=&#34;Evernote&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.evernote.com/&#34;&gt;Evernote&lt;/a&gt; je online služba &lt;strong&gt;na ukládání a organizaci&lt;/strong&gt; poznámek, souborů, útržků, odkazů… prostě všech forem digitálních informací. K uloženým informacím můžete přistupovat přes kvalitní webové rozhraní. Kromě toho však máte k dispozici komfortní nativní Windows a Mac OS program. Pokud vlastníte smartphone (Android, iOS, BlackBerry, Windows Phone…), i zde najdete propracovanou aplikaci pro přístup i pro vkládání nových informací. To vše se vám synchronizuje přes cloud. V základní verzi zdarma, která mi po 3 letech používání stále stačí!&lt;/p&gt;
+&lt;h3 id=&#34;kčemu-evernote-použít&#34;&gt;K čemu Evernote použít?&lt;/h3&gt;
+&lt;p&gt;Evernote je služba poměrně univerzální, takže příklady použití vás možná i překvapí. Každého napadne to hlavní: nápady a drobné poznámky pro pozdější použití, studijní poznámky a citace. Zajímavější použití jsou například recepty (vč. fotek), cestovní deník, fitness deník, nástroj na uchovávání webových odkazů, uložiště dokumentů pro rychlé prohledávání, zaznamenávání ochutnaných vín, úkolovníček, seznam projektů, plnohodnotný GTD nástroj, jednoduché CRM, záznamy jednání, archív důležitých emailů…&lt;/p&gt;
+&lt;p&gt;V kombinaci s Evernotem v mobilu použití násobně roste. Můžete něco vyfotit nebo nahrát audio poznámku a doslova na jeden klik vše nahrát do Evernotu. Už nikdy nemusíte přijít o užitečné nápady nebo myšlenky, protože si je poznamenáte ve chvíli, kdy vás napadly. K vytvořené poznámce si můžete přidat i GPS souřadnice.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://martinjanda.com/evernote-sync.png&#34; alt=&#34;Evernote synchronizace&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;jak-to-funguje&#34;&gt;Jak to funguje?&lt;/h3&gt;
+&lt;p&gt;Základem je poznámka, která může obsahovat formátovaný text (podobně jako MS Word, jen jednodušší, vlastně jde o HTML + styly), obrázky a soubory. Poznámka má samozřejmě nadpis, datum vytvoření a datum poslední editace. Poznámky můžeme organizovat do notebooků a přidávat k nim x tagů. V tom všem můžete úžasně rychle hledat. Každá poznámka se pak dá sdílet mezi více lidmi.&lt;/p&gt;
+&lt;h3 id=&#34;jak-evernote-používám-já&#34;&gt;Jak Evernote používám já?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. Úkoly a projekty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Díky štítkům a možnosti vkládat checkbox (zaškrtávátko) v poznámce, jde použít Evernote jako velice univerzální systém pro správu úkolů a projektů.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Zachytávání nápadů a poznámek (inbox)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Díky mobilní aplikaci nebo nativní aplikaci s klávesovými zkratkami, jsem schopen si poznamenat každou důležitou myšlenku, nápad nebo připomínku. Vím, že se k této poznámce můžu později vrátit a rozhodnout se, jestli je to užitečné a plyne z toho nějaká akce.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Správce záložek&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pokud při brouzdání webem narazím na zajímavou informaci, uložím si ji jako poznámku, vč. možné citace nebo rovnou celé stránky. To je velice snadné díky pluginům do prohlížečů (Evernote Web Clipper), takže celá operace zabere opravdu jen chvilku.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Archív&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Do poznámky je možné přidávat jakékoliv soubory. Zjistil jsem, že především různé PDF nebo word soubory, které by se mi mohli hodit, lze v Evernotu pěkně organizovat a uchovávat pro případné pozdější použití. Ke každému souboru je snadné dopsat drobnou poznámku, která mi později usnadní dohledání a zorientování se v dané problematice.&lt;/p&gt;
+&lt;h3 id=&#34;co-nabízí-pro-verze&#34;&gt;Co nabízí Pro verze?&lt;/h3&gt;
+&lt;p&gt;Aplikace se platí na bázi měsíčního předplatného, které činí 5 Euro. Tím se vám zpřístupní další funkcionality: možnost offline poznámek ve smarthonech, větší měsíční limit uploadu, historii každé poznámky, indexování PDF souborů atd. Jsou to jistě užitečné funkce, ale nikoliv nezbytné. Free verze toho nabízí opravdu dost a je plně použitelná.&lt;/p&gt;
+&lt;h3 id=&#34;tipy-kpoužití&#34;&gt;Tipy k použití&lt;/h3&gt;
+&lt;p&gt;Z mého každodenního použití bych měl pro vás pár tipů, jak používat Evernote efektivněji.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Nebojte se desktopové aplikace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Přestože webové rozhraní Evernotu je povedené, desktopová varianta nabízí mnohem komfortnější použití. Především možnosti zobrazení, řazení, rychlost hledání, možnost offline notebooků, klávesové zkratky… Je toho opravdu hodně a stále je to zdarma.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Klávesové zkratky&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Desktopový Evernote má celou řadu zkratek. Mně se osvědčilo zapamatovat si tyto:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;F6&lt;/code&gt; – Focus na vyhledávací pole a případné smazání vybraných omezení, filtrů.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Win + PrintScreen&lt;/code&gt; – Globální zkratka pro spuštění nástroje, který udělá screenshot vybrané části obrazovky.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Win + Shift + F&lt;/code&gt; – Globální zkratka, která spustí Evernote a dá focus na vyhledávací pole&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Ctrl + Alt + V&lt;/code&gt; – Vloží obsah schránky jako novou poznámku do Evernotu&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Ctrl + Shift + V&lt;/code&gt; – Vloží schránku do poznámky bez formátu&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Ctrl + Shift + C&lt;/code&gt; – Vloží To do checkbox do poznámky&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Alt + Shift + D&lt;/code&gt; – Vloží aktuální datum a čas do poznámky&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Zapomeňte na notebooky, používejte štítky&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Notebooky se nabízí jako výchozí způsob organizace poznámek. Mají však 2 nevýhody – nelze z nich dělat stromovou strukturu (vlastně jen do hlouky 2 při použití stacku) a poznámka může být pouze v jednom notebooku. Raději použijte štítky! Štítky lze organizovat do stromové struktury a poznámka jich může mít x.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Prefix u štítku pro rychlejší organizaci&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;U štítku lze použít prefixy (znak před) pro pohodlnější použití. Například štítek značící typ poznámky, může začínat znakem „.“ (.odkaz, .nápad), poznámka k projektu „#“ (#blog #pracovní projekt), kontext třeba „@“ (@doma, @mesto) apod. Zlepší to rychlost třídění i vkládání díky napovídání programu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Uložená hledání&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Některá hledání, která používáte stále dokola, je dobré si uložit do „Saved Searches“. V uložených hledáních si lze vydefinovat i složitější pravidla, např. více štítků + hledanou frázi + třeba nezaškrtnuté Todo checkboxu (pravidlo todo:false)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. Favorities bar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Favorities bar jsou něco jako záložky v prohlížeči. Můžete sem dávat odkaz na poznámky, uložené hledání apod. Na jeden klik se pak dostanete přesně tam kam potřebujete.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. Seřazení podle poslední změny od nejnovějšího&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nejčastěji pracujete na několika poznámkách. Z toho důvodu je dobré použít jako defaultní řazení sloupec „Updated“ od nejnovějšího. Bez filtru pak vždy vidíte poznámky, které jste naposled vložili/změnili. To aktuálně „živé“ máte hned po ruce.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. Nebojte se plného koše&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Smazané poznámky padají do koše. Nevyprazdňujte jej, nevšímejte si ho. Jednou za čas se vám může hodit, že se dostanete k poznámce, kterou jste vyhodili.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.evernote.com/&#34;&gt;Evernote&lt;/a&gt; toho nabízí mnohem víc, nicméně nejde o složitý nástroj a nemusíte se ho bát. Samozřejmě nejde o jediný program na správu poznámek. Ze zvědavosti jsem zkoušel použít &lt;a href=&#34;http://office.microsoft.com/cs-cz/onenote/&#34;&gt;MS OneNote&lt;/a&gt;, &lt;a href=&#34;http://www.notecasepro.com/&#34;&gt;NoteCase&lt;/a&gt;, &lt;a href=&#34;http://basket.kde.org/&#34;&gt;Basket&lt;/a&gt;, &lt;a href=&#34;http://springpad.com/about&#34;&gt;Springpad&lt;/a&gt;, &lt;a href=&#34;http://projects.gnome.org/tomboy/&#34;&gt;Tomboy&lt;/a&gt;, &lt;a href=&#34;http://www.zim-wiki.org/&#34;&gt;Zim&lt;/a&gt; … žádný mi však nesedl tolik jako právě &lt;a href=&#34;https://www.evernote.com/&#34;&gt;Evernote&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Digitální éra si žádá digitální paměť. &lt;strong&gt;Evernote je pro mě rozšířená paměť&lt;/strong&gt;, která mě ani jednou za 3 roky neselhala. Kdyby se to tak dalo říct o mé vlastní paměti.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
